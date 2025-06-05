@@ -68,10 +68,10 @@
 ![image](https://img.xxxh.de/1749117780615.png)
 
 
-[img]https://img.xxxh.de/1749125363514.png[/img]
+![image](https://img.xxxh.de/1749125363514.png)
 
-[img]https://img.xxxh.de/1749125365141.png[/img]
+![image](https://img.xxxh.de/1749125365141.png)
 
-[img]https://img.xxxh.de/1749125366184.png[/img]
+![image](https://img.xxxh.de/1749125366184.png)
 
-[img]https://img.xxxh.de/1749125367122.png[/img]
+![image](https://img.xxxh.de/1749125367122.png)
