@@ -9,9 +9,9 @@
 <table>
   <thead>
     <tr>
-      <th width="200px>价格</th>
-      <th width="200px>流量</th>
-      <th width="200px>时长</th>
+      <th>价格</th>
+      <th>流量</th>
+      <th>时长</th>
     </tr>
   </thead>
   <tbody>
