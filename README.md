@@ -15,26 +15,18 @@
 <table>
   <thead>
     <tr>
-      <th>月份</th>
-      <th>销售额</th>
+      <th>价格</th>
+      <th>流量</th>
+      <th>时长</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>一月</td>
-      <td>$1000</td>
-    </tr>
-    <tr>
-      <td>二月</td>
-      <td>$1500</td>
+      <td>8.9</td>
+      <td>500G</td>
+      <td>月付</td>
     </tr>
   </tbody>
-  <tfoot>
-    <tr>
-      <td>总计</td>
-      <td>$2500</td>
-    </tr>
-  </tfoot>
 </table>
 
 ![image](https://img.xxxh.de/1749117572577.png)
