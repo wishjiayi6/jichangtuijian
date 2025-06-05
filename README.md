@@ -8,9 +8,9 @@
 这是机场套餐，总共7个套餐<br>
 <table>
     <tr>
-      <th>&nbsp价格&nbsp</th>
-      <th>&nbsp流量&nbsp</th>
-      <th>&nbsp时长&nbsp</th>
+      <th>&nbsp&nbsp&nbsp价格&nbsp&nbsp&nbsp</th>
+      <th>&nbsp&nbsp&nbsp流量&nbsp&nbsp&nbsp</th>
+      <th>&nbsp&nbsp&nbsp时长&nbsp&nbsp&nbsp</th>
     </tr>
     <tr>
       <td>8.9</td>
