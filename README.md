@@ -12,5 +12,46 @@
 <li>一次性 39.9元1000G</li><br>
 <li>一次性 269.9元10亿G</li><br>
 
+<table>
+  <thead>
+    <tr>
+      <th>月份</th>
+      <th>销售额</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>一月</td>
+      <td>$1000</td>
+    </tr>
+    <tr>
+      <td>二月</td>
+      <td>$1500</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>总计</td>
+      <td>$2500</td>
+    </tr>
+  </tfoot>
+</table>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+</style>
 ![image](https://img.xxxh.de/1749117572577.png)
 ![image](https://img.xxxh.de/1749117780615.png)
