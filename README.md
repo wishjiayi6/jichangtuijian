@@ -6,22 +6,11 @@
 <h3><a href="https://xn--z4q48lcvpsq0c.com/#/dashboard" target="_blank">零元官网</a></h3>
 
 这是机场套餐，总共7个套餐<br>
-<table style="width:100%">
-  <tr>
-    <th style="width:30%">列1</th>
-    <th style="width:70%">列2</th>
-  </tr>
-  <tr>
-    <td>内容A</td>
-    <td>内容B</td>
-  </tr>
-</table>
-
 <table>
     <tr>
-      <th>价格</th>
-      <th>流量</th>
-      <th>时长</th>
+      <th>&nbsp价格&nbsp</th>
+      <th>&nbsp流量&nbsp</th>
+      <th>&nbsp时长&nbsp</th>
     </tr>
     <tr>
       <td>8.9</td>
