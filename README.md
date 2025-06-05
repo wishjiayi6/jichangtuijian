@@ -36,22 +36,6 @@
     </tr>
   </tfoot>
 </table>
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-  }
-  th {
-    background-color: #f2f2f2;
-  }
-  tr:nth-child(even) {
-    background-color: #f9f9f9;
-  }
-</style>
+
 ![image](https://img.xxxh.de/1749117572577.png)
 ![image](https://img.xxxh.de/1749117780615.png)
