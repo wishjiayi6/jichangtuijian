@@ -16,7 +16,7 @@
   </thead>
   <tbody>
     <tr>
-      <td width="200px">8.9</td>
+      <td style="text-align: center">8.9</td>
       <td width="200px">500G</td>
       <td width="200px">月付</td>
     </tr>
