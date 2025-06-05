@@ -4,7 +4,6 @@
 <h3>比其他价格高，流量还少的机场强太多了</h3>
 
 这是机场套餐，总共7个套餐<br>
-<h3>
 <table>
   <thead>
     <tr>
@@ -51,6 +50,6 @@
     </tr>    
   </tbody>
 </table>
-</h3>
+
 ![image](https://img.xxxh.de/1749117572577.png)
 ![image](https://img.xxxh.de/1749117780615.png)
