@@ -2,4 +2,4 @@
 
 推荐一款非常好用的机场，价格还非常划算，延迟超低，节点质量也非常高，看视频几乎不卡顿
 
-![image](https://i.111666.best/image/Z2T1H0bm7e11RBdZcTtQe1.png)
+<img src="https://i.ibb.co/fY8DBVds/2025-06-05-174135.png" alt="2025-06-05-174135" border="0">
