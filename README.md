@@ -57,6 +57,6 @@
 
 ![image](https://img.xxxh.de/1749117572577.png)
 
-<h4>机场节点截图，有Hysteria2和vless两种协议<h4>
+<h4>机场节点截图，有Hysteria2和vless两种协议，亚洲节点延迟都在100ms以下，欧洲节点都是0.5倍率<h4>
     
 ![image](https://img.xxxh.de/1749117780615.png)
