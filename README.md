@@ -26,6 +26,36 @@
       <td>500G</td>
       <td>月付</td>
     </tr>
+    <tr>
+      <td>16.9</td>
+      <td>500G</td>
+      <td>月付</td>
+    </tr>
+    <tr>
+      <td>29.9</td>
+      <td>500G</td>
+      <td>月付</td>
+    </tr>
+    <tr>
+      <td>11.9</td>
+      <td>200G</td>
+      <td>一次性</td>
+    </tr>
+    <tr>
+      <td>19.9</td>
+      <td>500G</td>
+      <td>一次性</td>
+    </tr>
+    <tr>
+      <td>39.9</td>
+      <td>1000G</td>
+      <td>一次性</td>
+    </tr> 
+     <tr>
+       <td>269.9</td>
+       <td>10亿G</td>
+       <td>一次性</td>
+    </tr>    
   </tbody>
 </table>
 
