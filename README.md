@@ -8,7 +8,7 @@
 这是机场套餐，总共7个套餐<br>
 <table>
   <thead>
-    <tr width="40%">
+    <tr width="200px>
       <th>价格</th>
       <th>流量</th>
       <th>时长</th>
