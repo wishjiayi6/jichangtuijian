@@ -6,49 +6,49 @@
 <h3><a href="https://xn--z4q48lcvpsq0c.com/#/dashboard" target="_blank">零元官网</a></h3>
 
 这是机场套餐，总共7个套餐<br>
-<table width="100%">
+<table>
   <thead>
-    <tr width="200px">
-      <th >价格</th>
-      <th >流量</th>
+    <tr>
+      <th>价格</th>
+      <th>流量</th>
       <th>时长</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="200px">8.9</td>
-      <td width="200px">500G</td>
-      <td width="200px">月付</td>
+      <td>8.9</td>
+      <td>500G</td>
+      <td>月付</td>
     </tr>
     <tr>
-      <td width="200px">16.9</td>
-      <td width="200px">500G</td>
-      <td width="200px">月付</td>
+      <td>16.9</td>
+      <td>500G</td>
+      <td>月付</td>
     </tr>
     <tr>
-      <td width="200px">29.9</td>
-      <td width="200px">500G</td>
-      <td width="200px">月付</td>
+      <td>29.9</td>
+      <td>500G</td>
+      <td>月付</td>
     </tr>
     <tr>
-      <td width="200px">11.9</td>
-      <td width="200px">200G</td>
-      <td width="200px">一次性</td>
+      <td>11.9</td>
+      <td>200G</td>
+      <td>一次性</td>
     </tr>
     <tr>
-      <td width="200px">19.9</td>
-      <td width="200px">500G</td>
-      <td width="200px">一次性</td>
+      <td>19.9</td>
+      <td>500G</td>
+      <td>一次性</td>
     </tr>
     <tr>
-      <td width="200px">39.9</td>
-      <td width="200px">1000G</td>
-      <td width="200px">一次性</td>
+      <td>39.9</td>
+      <td>1000G</td>
+      <td>一次性</td>
     </tr> 
      <tr>
-       <td width="200px">269.9</td>
-       <td width="200px">10亿G</td>
-       <td width="200px">一次性</td>
+       <td>269.9</td>
+       <td>10亿G</td>
+       <td>一次性</td>
     </tr>    
   </tbody>
 </table>
