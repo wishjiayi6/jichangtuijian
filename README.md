@@ -13,39 +13,39 @@
       <th>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp时长&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</th>
     </tr>
     <tr>
-      <td>8.9</td>
-      <td>500G</td>
-      <td>月付</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp8.9&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp500G&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp月付&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
     </tr>
     <tr>
-      <td>16.9</td>
-      <td>500G</td>
-      <td>月付</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp16.9&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp500G&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp月付&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
     </tr>
     <tr>
-      <td>29.9</td>
-      <td>500G</td>
-      <td>月付</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp29.9&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp500G&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp月付&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
     </tr>
     <tr>
-      <td>11.9</td>
-      <td>200G</td>
-      <td>一次性</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp11.9&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp200G&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp一次性&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
     </tr>
     <tr>
-      <td>19.9</td>
-      <td>500G</td>
-      <td>一次性</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp19.9&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp500G&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp一次性&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
     </tr>
     <tr>
-      <td>39.9</td>
-      <td>1000G</td>
-      <td>一次性</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp39.9&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp1000G&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+      <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp一次性&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
     </tr> 
      <tr>
-       <td>269.9</td>
-       <td>10亿G</td>
-       <td>一次性</td>
+       <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp269.9&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+       <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp10亿G&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+       <td>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp一次性&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
     </tr>    
   </tbody>
 </table>
