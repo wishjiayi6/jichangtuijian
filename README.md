@@ -7,14 +7,11 @@
 
 这是机场套餐，总共7个套餐<br>
 <table>
-  <thead>
-    <tr>
+    <tr width="80%">
       <th>价格</th>
       <th>流量</th>
       <th>时长</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>8.9</td>
       <td>500G</td>
