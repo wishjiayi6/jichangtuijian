@@ -6,7 +6,7 @@
 <h4>🧘‍♀️比其他价格高，流量还少的机场强太多了</h4>
 <h4>🎁群里经常不定时搞抽奖，参加抽奖可以白嫖</h4>
 
-<h4><a href="https://xn--z4q48lcvpsq0c.com/#/dashboard" target="_blank">零元官网</a>&nbsp&nbsp<a href="https://t.me/lingyuan_chat">零元群组</a></h4>
+<h4><a href="https://xn--z4q48lcvpsq0c.com/#/dashboard" target="_blank">零元机场官网</a>&nbsp&nbsp<a href="https://t.me/lingyuan_chat">零元机场群组</a></h4>
 
 这是机场套餐，总共7个套餐：<br>
 <table>
