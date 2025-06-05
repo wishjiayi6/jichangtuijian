@@ -4,7 +4,7 @@
 <h4>🚀有三网优化线路，看视频基本上秒加载</h4>
 <h4>🎞️解释流媒体，不限制设备，集群部署机器</h4>
 <h4>🧝客服7x24小时在线，有问题都能得到解决</h4>
-<h4>🎁群里经常不定时搞抽奖，参加抽奖可以白嫖</h4>
+<h4>🎁群里经常不定时搞抽奖，中奖概率百分百</h4>
 
 <h4><a href="https://xn--z4q48lcvpsq0c.com/#/dashboard" target="_blank">零元机场官网</a>&nbsp&nbsp<a href="https://t.me/lingyuan_chat">零元机场群组</a></h4>
 
