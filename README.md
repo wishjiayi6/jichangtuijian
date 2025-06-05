@@ -69,11 +69,10 @@
 
 
 <h4>中奖套餐截图：<h4>    
-    
+<h4>每次都是10元或者10元以上<h4>
+<h4>中一次奖，就能白嫖一个套餐<h4>
+<h4>中奖率百分百，只有参加就能中奖<h4>
+
 ![image](https://img.xxxh.de/1749125365141.png)
 ![image](https://img.xxxh.de/1749125366184.png)
 ![image](https://img.xxxh.de/1749125367122.png)
-
-<pre>
-  ![image](https://img.xxxh.de/1749125363514.png)
-</pre>
