@@ -6,12 +6,7 @@
 <h3><a href="https://xn--z4q48lcvpsq0c.com/#/dashboard" target="_blank">零元官网</a></h3>
 
 这是机场套餐，总共7个套餐<br>
-<table>
-   <style>
-    table td, table th {
-      padding: 20px 15px;  /* 上下20px，左右15px */
-    }
-  </style>
+<table width="100%">
   <thead>
     <tr>
       <th>价格</th>
