@@ -53,8 +53,7 @@
 </table>
 
 
-<h3>机场套餐截图：<h3>
-支持集群部署、不限制设备、解释流媒体
+<h4>机场套餐截图：<h4>
 
 ![image](https://img.xxxh.de/1749117572577.png)
 ![image](https://img.xxxh.de/1749117780615.png)
